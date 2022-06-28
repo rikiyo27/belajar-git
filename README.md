@@ -1,2 +1,2 @@
 # belajar-git
-Reposiroy belajar github
+Repository belajar github
