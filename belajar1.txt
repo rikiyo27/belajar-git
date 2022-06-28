@@ -1,0 +1,4 @@
+Resolusi
+- konsisten belajar
+- belajar kotlin
+- Kedepan ingin membuat aplikasi android dengan kotlin
