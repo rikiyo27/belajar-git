@@ -2,3 +2,6 @@ Resolusi
 - konsisten belajar
 - belajar kotlin
 - Kedepan ingin membuat aplikasi android dengan kotlin
+Do
+- menggunakan intellij idea dan JDK 14.0
+- dengan udemy dan dicoding

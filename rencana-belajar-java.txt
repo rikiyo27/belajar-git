@@ -1,0 +1,3 @@
+BELAJAR JAVA
+- Karena kotlin berjalan di atas JVM, maka kita perlu tahu bahasa pemprograman java terlebih dahulu
+- 
